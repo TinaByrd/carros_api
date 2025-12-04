@@ -32,7 +32,7 @@ export default function NewCarro() {
         <input id="marca" className="input" placeholder="Marca" />
         <input id="portas" className="input" placeholder="Quantidade de portas" />
 
-        <button className="btn" onClick={saveCar}>Salvar</button>
+        <button className="btn" onClick={saveCarro}>Salvar</button>
        </div>
 
     );

@@ -19,7 +19,7 @@ export default function DeleteCarro() {
         <div className="card text-center">
             <h1 className="text-xl font-bold mb-4">Confirmar Exclusão?</h1>
 
-            <button className="btn-danger" onClick={deleteCar}>Excluir</button>
+            <button className="btn-danger" onClick={deleteCarro}>Excluir</button>
         </div>
 
     );
